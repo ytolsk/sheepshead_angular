@@ -1,0 +1,10 @@
+pairs:
+  yt: Yulia Tolskaya; ytolskaya
+  ab: Adam Berkovec; aberkovec
+  ch: Chris Hendrix; chendrix
+
+email:
+  prefix: pair
+  domain: pivotal.io
+
+global: true
